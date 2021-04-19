@@ -5,6 +5,7 @@ html{
 }
 
 * {
+    scroll-behavior: smooth;
     padding: 0;
     text-decoration: none;
     margin: 0;
